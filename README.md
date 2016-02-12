@@ -5,6 +5,9 @@ mathematicians Valerie Tweedle and Robert J Smith. The model from the paper was 
 instead of an entire population, to allow for an evolutionary systems implementation of the simulation.
 The program was inspired by the course Collective Intelligence, as taught on the VU University Amsterdam, and the resulting research paper (co-written with Bushra Malik) for this course is included in the repository.
 <br>
+
+![alt tag](/../screenshots/SQ3nsBS5IR.gif?raw=true)
+
 ### How It Works
 The model described in the paper (http://mysite.science.uottawa.ca/rsmith43/bieberfever.pdf) uses a variation of the classical SIR Model (Susceptible, Infectious, Recovered) for epidemics. The population can fall in either of these three states, and at the start of the simulation 99 percent of the population is initiated as susceptible (gray), while 1 percent is initiated as (Bieber-)infected (red). Recovered agents are shown in green. People can either enter another state by direct contact with others, through outside influence of either positive or negative media, or cure from the disease naturally; getting bored of Bieber. The biggest variation on the SIR model is the fact that recovered agents can always flow back to a succeptible state, preventing the fever from dying out naturally. Furthermore, there is a continuous inflow of new succeptible agent entering the population, as they grow into the age category where Bieber Fever can occur, and a continous outflow of agents as they reach the age where no sane individual will remain a liking for Justin Bieber.
 
