@@ -49,7 +49,3 @@ The GO button starts the simulation and the plotting function.<br>
 The TURTLE-SHAPE chooser controls whether the people are visualized as person shapes or as circles.<br>
 The MEDIA-COVERAGE chooser controls the type of media attention throughout the simulation. Each option (absence of media, positive peak followed by negative, and normal media) loops after 10 years.<br>
 The six output monitors show how the population is divided over the three states, and the number of years that have passed. The plot shows (in their respective colors) the number of susceptible, infected, and recovered people. It also shows the number of individuals in the total population in blue.<br>
-
-
-![alt tag](https://github.com/Nedervino/Quesine-App/blob/master/screenshots/screenshot1.png)
-![alt tag](https://github.com/Nedervino/Quesine-App/blob/master/screenshots/screenshot3.png)
